@@ -1,4 +1,4 @@
-# credentials
+# Credentials
 A place to store certifications and professional development materials
 
 <p align="center">
